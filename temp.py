@@ -8,3 +8,6 @@ values = x.fetchone()
 print(values)
 c.close
 conn.close
+
+
+#测试用数据
